@@ -5,7 +5,7 @@ from ortools.sat.python import cp_model
 
 st.set_page_config(page_title="Sudoku Solver", layout="wide")
 
-st.title("🧠 Resolvedor de Sudoku com OR-Tools")
+st.title("🧠 Resolvedor de Sudoku")
 st.markdown(
     """
     Escolha o tamanho da grade, insira os números conhecidos abaixo (uma linha para cada linha da grade, números separados por espaço ou vírgula). 
