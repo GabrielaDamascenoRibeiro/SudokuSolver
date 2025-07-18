@@ -3,7 +3,7 @@ import numpy as np
 import math
 from ortools.sat.python import cp_model
 
-st.set_page_config(page_title="Sudoku Solver com OR-Tools", layout="wide")
+st.set_page_config(page_title="Sudoku Solver", layout="wide")
 
 st.title("🧠 Resolvedor de Sudoku com OR-Tools")
 st.markdown(
